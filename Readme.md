@@ -31,3 +31,32 @@ It should display 1.22.4 or the latest / your selected version..
 
 3. Check the version of visual studio code from Editor -> Help -> About..
 
+First session on 12th May 2021..
+
+Topics covered  -
+
+1. Installations
+2. Setup of Live-server to render static html pages.
+3. Setup of Javascript files within the application
+4. DOM manipulations using javascript
+5. Introduction to Javascript arrays.
+6. Event handling using Javascript
+7. Adding local dependencies using Yarn.
+8. Introduction to the Babel CLI by converting ES6 files to ES05.
+
+
+Future topics:
+
+1. XMLHttpRequest for rest calls.
+2. Fetch API
+3. Introduction to ES 06 promises (Asynchronous)
+4. Introduction to using third party libraries like Moment JS.
+5. Use of yarn to import third party libraries
+6. Introduction to Web pack features like
+    a. Live reload.
+    b. Bundling
+    c. Tree shaking
+    d. Babel compiler presets etc...
+5. Hosting static websites over the internet
+
+Once the above features are explored we can start with React library.

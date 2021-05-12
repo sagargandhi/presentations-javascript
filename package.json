@@ -4,8 +4,8 @@
     "babel-preset-env": "1.6.1",
     "live-server": "^1.2.1"
   },
-  "scripts":{
+  "scripts": {
     "babel-version": "babel --version",
-    "build": "babel ./js/app.js --out-file ./js/app_es5.js --presets env" 
+    "build": "babel ./js/app.js --out-file ./js/app_es5.js --presets env"
   }
 }
