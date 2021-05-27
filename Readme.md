@@ -33,7 +33,7 @@ It should display 1.22.4 or the latest / your selected version..
 
 First session on 12th May 2021..
 
-Topics covered  -
+Session 1 Topics :
 
 1. Installations
 2. Setup of Live-server to render static html pages.
@@ -45,18 +45,18 @@ Topics covered  -
 8. Introduction to the Babel CLI by converting ES6 files to ES05.
 
 
-Future topics:
+Second session on 28th May 2021
 
-1. XMLHttpRequest for rest calls.
-2. Fetch API
-3. Introduction to ES 06 promises (Asynchronous)
-4. Introduction to using third party libraries like Moment JS.
-5. Use of yarn to import third party libraries
+Session 2 Topics:
+
+1. Introduction to using third party libraries like Moment JS.
+2. Use of yarn to import third party libraries
+3. XMLHttpRequest for rest calls.
+4. Fetch API
+5. Introduction to ES 06 promises (Asynchronous)
 6. Introduction to Web pack features like
     a. Live reload.
     b. Bundling
     c. Tree shaking
     d. Babel compiler presets etc...
-5. Hosting static websites over the internet
-
-Once the above features are explored we can start with React library.
+7. Hosting static websites over the internet
