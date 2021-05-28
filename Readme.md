@@ -47,16 +47,32 @@ Session 1 Topics :
 
 Second session on 28th May 2021
 
-Session 2 Topics:
+Session 2 Topics covered:
 
-1. Introduction to using third party libraries like Moment JS.
-2. Use of yarn to import third party libraries
-3. XMLHttpRequest for rest calls.
-4. Fetch API
-5. Introduction to ES 06 promises (Asynchronous)
-6. Introduction to Web pack features like
+1. Rendering of time on the HTML DOM.
+2. Introduction to Moment JS
+    a. Display of Date in different formats.
+    b. Manipulation of dates, from then features like 4 hours ago.. etc..
+3. Embedding moment js library via CDN into our web application.
+3. Hosting of static website using Surge.
+4. Introduction to web-pack features
+    a. Web pack bundler
+    b. Basic directory setup
+    
+Setup to run the files:
+    1. Run 'yarn install' : Installs all the dependencies required for session 2.
+    2. Run 'yarn run webpack': Builds all the files and creates output directory
+    3. Run 'yarn run serve':  Launches the site locally 
+    FOR NPM use npm instead of yarn..
+
+    
+Session 3  (TBD) - 
+1. Introduction to Web pack features like
     a. Live reload.
     b. Bundling
     c. Tree shaking
     d. Babel compiler presets etc...
-7. Hosting static websites over the internet
+2. XMLHttpRequest for rest calls.
+3. Fetch API
+4. Introduction to ES 06 promises (Asynchronous)
+
