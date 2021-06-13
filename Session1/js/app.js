@@ -6,6 +6,9 @@ class Employee {
     printInfo() {
         return `Name : ${this.name} Id-${this.id}`;
     }
+    supInfo(){
+        this.printInfo()
+    }
 };
 
 
@@ -18,7 +21,7 @@ const renderArray = function(array){
     document.querySelector("#app").innerHTML = '';
     array.forEach((employee, index)=>{
         const p = document.createElement('p');
-        p.textContent = employee.printInfo();
+        p.textContent = employee.supInfo();
         document.querySelector('#app').appendChild(p);
     });
 };
