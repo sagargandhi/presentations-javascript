@@ -66,13 +66,31 @@ Setup to run the files:
     FOR NPM use npm instead of yarn..
 
     
-Session 3  (TBD) - 
-1. Introduction to Web pack features like
-    a. Live reload.
-    b. Bundling
-    c. Tree shaking
-    d. Babel compiler presets etc...
-2. XMLHttpRequest for rest calls.
-3. Fetch API
-4. Introduction to ES 06 promises (Asynchronous)
+Session 3  - Friday 04th June 2021
+
+Topics covered:
+ 
+1. Theory- Need of webpack. 
+2. Webpack installation using yarn
+3. Minification/Webpack as a bundler for production mode
+4. Integration of Babel within webpack using webpack-cli
+5. Webpack dev server - Alternative to using webpack --watch and live-server
+6. Webpack devtool - Debugging source files once they are compiled into ES - 05
+Practical Demonstration of all the above webpack features.
+
+Session 4 -
+
+Topics covered - Monday 14th June 2021
+
+1. Introduction to Javascript unit testing 
+2. Installation of jest (React testing library)
+3. Integration of jest within a sample project.
+4. Mocking and other features of jest.
+5. Introduction to Resquest response API using XmlHttpRequest
+6. Demo of XHR for asychronous requests.
+
+
+
+
+
 
